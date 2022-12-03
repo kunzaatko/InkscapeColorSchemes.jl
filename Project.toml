@@ -1,0 +1,7 @@
+name = "InkscapeColorSchemes"
+uuid = "08bbfc0f-68ab-4178-a482-0398b29ec524"
+authors = ["Martin Kunz <martinkunz@email.cz> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.2"
