@@ -5,6 +5,9 @@
 [![Build Status](https://github.com/kunzaatko/InkscapeColorSchemes.jl/actions/workflows/CI.yml/badge.svg?branch=trunk)](https://github.com/kunzaatko/InkscapeColorSchemes.jl/actions/workflows/CI.yml?query=branch%3Atrunk)
 [![Coverage](https://coveralls.io/repos/github/kunzaatko/InkscapeColorSchemes.jl/badge.svg?branch=trunk)](https://coveralls.io/github/kunzaatko/InkscapeColorSchemes.jl?branch=trunk)
 [![Code Style: Blue](https://img.shields.io/badge/code%20style-blue-4495d1.svg)](https://github.com/invenia/BlueStyle)
+<a href="https://kunzaatko.github.io/">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/CZ.svg" alt="made in Czechia">
+</a>
 
 ## Citing
 
